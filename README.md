@@ -8,6 +8,9 @@ There is an option to display the Geographic coordinates of the maximum and mini
 Coordinate Conversion:
 Coordinate conversion is performed using the Universal Transverse Mercator (UTM) projection with the ellipsoid set as WGS 84. 
 
+Output HTML Path: 
+The generated HTML file will be saved in the same location as the application.
+
 Important Notes:
 
 Application Loading Time :  Loading the application may take up to 2 minutes, depending on system performance and file size.
