@@ -13,3 +13,5 @@ Important Notes:
 Application Loading Time :  Loading the application may take up to 2 minutes, depending on system performance and file size.
 
 Fallback Values          :  If FRL and CRL values are not provided, it is important to manually fill them with zero (0).
+
+System Requirements      : The application requires Windows 10 or above to run smoothly.
